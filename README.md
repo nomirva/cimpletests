@@ -72,4 +72,5 @@ int main(void) {
 ```
 
 Output:
+
 ![output example](output.png)
