@@ -74,4 +74,4 @@ int main(void) {
 ```
 
 Output:
-![[output.png]]
+![output example](output.png)
