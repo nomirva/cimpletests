@@ -1,7 +1,6 @@
 # cimpletests - Simple testing library for C
 At the moment this library is developed mainly for personal use
 
----
 #### Demonstration
 
 The library is made in the style of one header file, so you just need to copy it to your project:
@@ -20,7 +19,6 @@ int Divide(int a, int b) {
         return 0;
     }
     return a / b;
-
 }
 
 int Multiply(int a, int b) {
